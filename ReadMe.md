@@ -28,11 +28,11 @@ Le projet est organisé de la manière suivante :
 ## Utilisation
 1. Construisez les images Docker :
    ```bash
-   docker-compose build
+   docker compose build
    
 2. Lancez les conteneurs :
     ```bash
-   docker-compose up -d
+   docker compose up -d
 
 ### Comment savoir si cela fonctionne bien?
 Une fois les conteneurs démarrés, vous pouvez accéder aux applications aux adresses suivantes : http://localhost:5000. et : http://localhost:5001.

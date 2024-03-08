@@ -1,4 +1,5 @@
-# Popeye - Projet de Tech 1 (Epitech)  :whale:
+# Popeye - Projet de Tech 1 (Epitech)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ## Description
 Popeye est un projet réalisé dans le cadre du cursus de Tech 1 à Epitech. L'objectif principal est de découvrir et de se familiariser avec Docker, en utilisant les Dockerfiles et Docker Compose pour créer et gérer des conteneurs.
